@@ -36,8 +36,7 @@ Full-stack developer passionate about creating efficient and innovative solution
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php" alt="PHP logo" title="PHP" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/LARAVEL-282C34?logo=LARAVEL" alt="LARAVEL logo" title="LARAVEL" height="30" />
-<br>
-
+<br><br>
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="docker logo" title="docker" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
@@ -45,9 +44,7 @@ Full-stack developer passionate about creating efficient and innovative solution
 <img src="https://img.shields.io/badge/Postman-282C34?logo=Postman" alt="Postman logo" title="Postman" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/xampp-282C34?logo=xampp" alt="xampp logo" title="xampp" height="30" />
-<br>
-<br>
-
+<br><br>
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL" alt="MySQL logo" title="MySQL" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite" alt="SQLite logo" title="SQLite" height="30" />
@@ -60,6 +57,7 @@ Full-stack developer passionate about creating efficient and innovative solution
 
 I'm currently improving my skills in:
 
+<a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/Rust-282C34?logo=rust" alt="Rust logo" title="Rust" height="30" />
@@ -70,6 +68,7 @@ I'm currently improving my skills in:
 
 Technologies I'm interested in exploring:
 
+<a name="learning-now"></a>
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" />
@@ -81,7 +80,6 @@ Technologies I'm interested in exploring:
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js" alt="Next.js logo" title="Next.js" height="30" />
 
 ---
-
 <div align="center">
   
   *"Building the future, one line of code at a time."*
