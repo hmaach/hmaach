@@ -39,7 +39,9 @@ Full-stack developer passionate about creating efficient and innovative solution
 <br><br>
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="docker logo" title="docker" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/Jira_Software-282C34?logo=jira" alt="docker logo" title="docker" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282C34?logo=Postman" alt="Postman logo" title="Postman" height="25" />
 &nbsp;
