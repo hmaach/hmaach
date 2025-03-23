@@ -16,13 +16,9 @@
 [<img src="https://img.shields.io/badge/Discord-%231DA1F2.svg?logo=discord&logoColor=white" alt="Discord logo" title="Discord" height="25" />](https://discordapp.com/users/hamzamaach)
 
 
-</div>
-
-## 📊 About Me
 
 Full-stack developer passionate about creating efficient and innovative solutions. Currently enhancing my skills at Zone01 Oujda as part of 01Talent.
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)]()
+</div>
 
 ## 💻 Tech Stack
 
