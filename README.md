@@ -1,7 +1,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=hmaach&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/hmaach)
 <div align="center">
   
-<img src="assets/maach.png" alt="Hamza Maach">
+<img src="assets/maach.png" alt="Hamza Maach" style="border-radius: 10px; overflow: hidden;">
 
 <!--<p align="center">
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="100" height="100" border="10"/>
