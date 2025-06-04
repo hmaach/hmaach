@@ -25,6 +25,8 @@
 ## 💻 Tech Stack
 
 <a name="learning-now"></a>
+<img src="https://img.shields.io/badge/Rust-282C34?logo=rust" alt="Rust logo" title="Rust" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Golang-282C34?logo=go" alt="Golang logo" title="Golang" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -58,7 +60,7 @@
 I'm currently improving my skills in:
 
 <a name="learning-now"></a>
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Rust-282C34?logo=rust" alt="Rust logo" title="Rust" height="25" />
 &nbsp;
