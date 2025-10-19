@@ -34,6 +34,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php" alt="PHP logo" title="PHP" height="25" />
 <br><br>
+<img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=SpringBoot" alt="Spring Boot logo" title="Spring Boot" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=de0e37" alt="Angular logo" title="Angular" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
@@ -52,6 +54,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/xampp-282C34?logo=xampp" alt="xampp logo" title="xampp" height="25" />
 <br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql" alt="postgresql logo" title="Postgresql" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL" alt="MySQL logo" title="MySQL" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite" alt="SQLite logo" title="SQLite" height="25" />
