@@ -62,9 +62,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite" alt="SQLite logo" title="SQLite" height="25" />
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmaach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmaach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ## Current Learning Focus
 
