@@ -39,7 +39,7 @@
 *Check out my portfolio for projects, experience, and more.*
 
 </div>
-
+<br></br>
 
 ## DevOps & Cloud Tech Stack
 
@@ -132,8 +132,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Jira_Software-282C34?logo=jira" height="25" />
 
----
-
 ## Current Learning Focus
 
 I'm currently improving my skills in:
@@ -148,8 +146,13 @@ I'm currently improving my skills in:
 <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=white" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=white" height="25" />
+<br></br>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hmaach&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
+
 
 <div align="center">
 
